@@ -1,0 +1,1 @@
+web: gunicorn fakerblog.wsgi --log-file -
