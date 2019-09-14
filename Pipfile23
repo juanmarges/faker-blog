@@ -1,0 +1,44 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pipenv = "==2018.11.26"
+argon2-cffi = "==19.1.0"
+dj-database-url = "==0.5.0"
+django-bootstrap3 = "==11.1.0"
+gunicorn = "==19.9.0"
+html5lib = "==1.0.1"
+json5 = "==0.8.4"
+jsonschema = "==3.0.1"
+pycodestyle = "==2.5.0"
+pycosat = "==0.6.3"
+pycparser = "==2.19"
+pycurl = "==7.43.0.3"
+pyflakes = "==2.1.1"
+pylint = "==2.3.1"
+pyodbc = "==4.0.26"
+pyparsing = "==2.4.0"
+pyreadline = "==2.1"
+pyrsistent = "==0.14.11"
+python-dateutil = "==2.8.0"
+requests = "==2.22.0"
+sqlparse = "==0.3.0"
+virtualenv = "==16.7.5"
+virtualenv-clone = "==0.5.3"
+whitenoise = "==4.1.3"
+widgetsnbextension = "==3.5.0"
+Django = "==2.2.5"
+Faker = "==2.0.1"
+Flask = "==1.1.1"
+"path.py" = "==12.0.1"
+Pygments = "==2.4.2"
+pyOpenSSL = "==19.0.0"
+PySocks = "==1.7.0"
+SQLAlchemy = "==1.3.5"
+
+[requires]
+python_version = "3.7"
