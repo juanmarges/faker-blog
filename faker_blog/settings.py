@@ -25,7 +25,7 @@ SECRET_KEY = '&l4$%$c7kmt8=kv6&rot)rb#0qtp3n&#rms*lfq=s6@yt2zi71'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://fakerblog.herokuapp.com/']
+ALLOWED_HOSTS = ['https://fakerblog.herokuapp.com/','127.0.0.1']
 
 
 # Application definition
